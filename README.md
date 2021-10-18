@@ -2,7 +2,7 @@
 
 # Math Magicians
 
-> On this project I build a single page app called math magicians, it includes navigation as well as a calculator, using React.
+> On this project I'll build a single page app called math magicians, it includes navigation as well as a calculator, using React.
 
 ![screenshot](./app_screenshot.png)
 
