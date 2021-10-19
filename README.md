@@ -6,12 +6,13 @@
 
 ![screenshot](./app_screenshot.png)
 
-On this milestone I set up the project using react.
+On this milestone I create the calculator component UI.
 
 ## Built With
 
 - JavaScript
 - React
+- CSS
 
 
 ## Getting Started
@@ -21,7 +22,8 @@ To get a local copy up and running follow these simple example steps.
 
 - Clone the repository with git clone https://github.com/leolpaz/Math-Magicians.git;
 - Install dependencies with npm i;
-- Use npm start to start the website;
+- Use npm start to create the dev server;
+- Go to http://localhost:3000/ on your browser if it doesn't do it automatically once you create the dev server
 
 
 
