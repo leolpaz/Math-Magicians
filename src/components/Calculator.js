@@ -10,7 +10,7 @@ export default class Calculator extends React.Component {
     };
   }
 
-  onClickHandler = async (event) => {
+  onClickHandler = (event) => {
     this.setState((prev) => calculate(prev, event.target.name));
   };
 
