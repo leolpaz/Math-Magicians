@@ -1,5 +1,5 @@
 .calc-container {
-  width: 350px;
+  width: 80vw;
   margin: auto;
   margin-top: 2%;
   display: flex;
@@ -23,10 +23,10 @@
   width: 100%;
   display: grid;
   grid-template-columns: repeat(4, auto);
+  grid-template-rows: repeat(5, 14vh);
 }
 
 .btns-container button {
-  height: 50px;
   font-weight: 600;
   font-size: 12px;
 }
@@ -49,4 +49,14 @@
 .zero-btn {
   grid-column-start: span 2;
   border: 1px solid rgb(213, 213, 213);
+}
+
+
+@media screen and (min-width: 640px) {
+  .calc-container {
+    width: 500px;
+  }
+  .btns-container{
+    grid-template-rows: repeat(5, 80px);
+  }
 }

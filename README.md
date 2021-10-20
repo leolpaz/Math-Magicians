@@ -6,7 +6,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-On this milestone I create the calculator component UI.
+On this milestone I connect the calculator to the logic files, so it can display the operations.
 
 ## Built With
 
