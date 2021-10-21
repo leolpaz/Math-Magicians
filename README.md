@@ -6,7 +6,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-On this milestone I connect the calculator to the logic files, so it can display the operations.
+On this milestone I refactor the calculator component to use hooks.
 
 ## Built With
 
