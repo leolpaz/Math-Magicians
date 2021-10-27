@@ -13,4 +13,10 @@ describe('Test operate.js file', () => {
   test('Test division', () => {
     expect(operate('1', '2', '÷')).toBe('0.5');
   });
+  test('Test modulus', () => {
+    expect(operate('13', '2', '%')).toBe('1');
+  });
+  test('Test Modulus', () => {
+    expect(() => operate('/', '2', '/')).toThrow(Error);
+  });
 });
