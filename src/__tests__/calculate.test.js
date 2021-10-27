@@ -149,4 +149,15 @@ describe('Tests for calculate.js', () => {
 
     expect(obj.total).toBe('18');
   });
+  test('Expect division by 0 to throw an error', () => {
+    obj = calculate(obj, '30');
+
+    obj = calculate(obj, '÷');
+
+    obj = calculate(obj, '0');
+
+    obj = calculate(obj, '=');
+
+    expect(obj.total).toBe("Can't divide by 0.");
+  });
 });
