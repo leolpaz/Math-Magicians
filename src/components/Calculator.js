@@ -11,12 +11,12 @@ const Calculator = () => {
   const showScreen = () => {
     const { total, next } = logicN;
     if (next === null && total === null) {
-      return <div className="screen">0</div>;
+      return <div data-testid="screen" className="screen">0</div>;
     }
     if (next === null) {
-      return <div className="screen">{total}</div>;
+      return <div data-testid="screen" className="screen">{total}</div>;
     }
-    return <div className="screen">{next}</div>;
+    return <div data-testid="screen" className="screen">{next}</div>;
   };
 
   return (
@@ -60,7 +60,6 @@ const Calculator = () => {
           type="button"
           name="7"
           className="num-btn"
-          data-testid="seven"
         >
           7
         </button>

@@ -10,9 +10,11 @@ exports[`Snapshot Testing Test Calc Page 1`] = `
   </h2>
   <div
     className="calc-container"
+    data-testid="container"
   >
     <div
       className="screen"
+      data-testid="screen"
     >
       0
     </div>
