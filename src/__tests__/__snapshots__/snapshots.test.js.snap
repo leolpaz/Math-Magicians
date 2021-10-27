@@ -1,0 +1,204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Testing Test Calc Page 1`] = `
+<div
+  className="calc-page-container"
+>
+  <h2>
+    Let\`'\`s do some math!
+  </h2>
+  <div
+    className="calc-container"
+  >
+    <div
+      className="screen"
+    >
+      0
+    </div>
+    <div
+      className="btns-container"
+    >
+      <button
+        className="top-btn"
+        name="AC"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="top-btn"
+        name="+/-"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="top-btn"
+        name="%"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="side-btn"
+        name="÷"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        className="num-btn"
+        name="7"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="num-btn"
+        name="8"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="num-btn"
+        name="9"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="side-btn"
+        name="x"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        className="num-btn"
+        name="4"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="num-btn"
+        name="5"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="num-btn"
+        name="6"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="side-btn"
+        name="-"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        className="num-btn"
+        name="1"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="num-btn"
+        name="2"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="num-btn"
+        name="3"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="side-btn"
+        name="+"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="zero-btn"
+        name="0"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="num-btn"
+        name="."
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="side-btn"
+        name="="
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Snapshot Testing Test Home Page 1`] = `
+<div
+  className="home-container"
+>
+  <h2>
+    Welcome to our page!
+  </h2>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod dolores quidem corrupti dolorum necessitatibus maxime consequuntur praesentium fuga? Delectus at unde et iusto cumque vero harum dignissimos debitis accusantium veniam blanditiis molestiae culpa perferendis nostrum consequatur, autem expedita assumenda reprehenderit odio dolore officiis reiciendis magnam aliquid alias! Ea maxime sed assumenda fugit, aperiam dicta voluptate dolores? Veritatis, repudiandae necessitatibus. Ipsum dolorum expedita minima excepturi odio tempora hic natus officia! Unde, aut quos? Vitae distinctio similique necessitatibus odio aspernatur cupiditate tempora fugiat molestiae maiores enim. Ratione ea hic repellendus est, deleniti obcaecati! Sed.
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa reprehenderit harum, culpa soluta quam, excepturi nemo vel enim itaque cum obcaecati nobis commodi ad deleniti et qui nulla consequatur doloribus! Nam modi voluptas at. Nemo quasi nam fugit sed sunt consequatur assumenda quod culpa tempora, blanditiis, dicta exercitationem, dolore rerum pariatur eum amet nihil veritatis non odio cumque et vero reprehenderit dolores optio? Quae.
+  </p>
+</div>
+`;
+
+exports[`Snapshot Testing Test Quote Page 1`] = `
+<div
+  className="quote-container"
+>
+  <h2
+    className="quote"
+  >
+    Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding. - William Paul Thurston
+  </h2>
+</div>
+`;
