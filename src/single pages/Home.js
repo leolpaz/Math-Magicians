@@ -1,7 +1,7 @@
 import React from 'react';
 
 const HomePage = () => (
-  <div className="home-container">
+  <div data-testid="home" className="home-container">
     <h2>Welcome to our page!</h2>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.

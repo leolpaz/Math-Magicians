@@ -3,6 +3,7 @@
 exports[`Snapshot Testing Test Calc Page 1`] = `
 <div
   className="calc-page-container"
+  data-testid="calcPage"
 >
   <h2>
     Let\`'\`s do some math!
@@ -178,6 +179,7 @@ exports[`Snapshot Testing Test Calc Page 1`] = `
 exports[`Snapshot Testing Test Home Page 1`] = `
 <div
   className="home-container"
+  data-testid="home"
 >
   <h2>
     Welcome to our page!
@@ -194,6 +196,7 @@ exports[`Snapshot Testing Test Home Page 1`] = `
 exports[`Snapshot Testing Test Quote Page 1`] = `
 <div
   className="quote-container"
+  data-testid="quote"
 >
   <h2
     className="quote"
