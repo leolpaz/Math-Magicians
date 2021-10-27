@@ -62,7 +62,7 @@ export default function calculate(obj, buttonName) {
       }
       return { total: `${obj.total}.` };
     }
-    return { total: '0.' };
+    return { next: '0.' };
   }
 
   if (buttonName === '=') {
