@@ -31,7 +31,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Live Page
 
+
 [Netlify page](https://leolpaz-math-magician.netlify.app/)
+
 [Heroku_page](https://leolpaz-math-magicians.herokuapp.com/)
 
 ## Authors
