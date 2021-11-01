@@ -29,7 +29,10 @@ To get a local copy up and running follow these simple example steps.
 - Go to http://localhost:3000/ on your browser if it doesn't do it automatically once you create the dev server;
 - Run "npm run test" to see if the tests are passing, everything should pass;
 
+### Live Page
 
+[Netlify page](https://leolpaz-math-magician.netlify.app/)
+[Heroku_page](https://leolpaz-math-magicians.herokuapp.com/)
 
 ## Authors
 
